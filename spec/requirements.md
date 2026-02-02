@@ -1,5 +1,5 @@
-# Ticket 1: Implement a historical weather data feature
+# Ticket 2: Introduce a weather widget for home screens
 
-Provide users with access to historical weather data for their saved locations, allowing them to view past weather patterns and trends. This feature will help users understand climate changes over time.
+Allow users to add a customizable weather widget to their device's home screen, displaying current conditions and forecasts. This feature will provide quick access to weather information without opening the app.
 
-Reason: Historical weather data supports users in making informed decisions based on past weather trends.
+Reason: A home screen widget improves user convenience by offering instant weather updates at a glance.
