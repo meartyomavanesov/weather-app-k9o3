@@ -1,5 +1,5 @@
-# Ticket 4: Introduce a weather condition summary
+# Ticket 1: Implement a historical weather data feature
 
-Provide a concise summary of current weather conditions, including temperature, humidity, and wind speed, on the main screen. This feature will give users quick access to essential weather information at a glance.
+Provide users with access to historical weather data for their saved locations, allowing them to view past weather patterns and trends. This feature will help users understand climate changes over time.
 
-Reason: A weather condition summary enhances user experience by offering quick access to vital weather data.
+Reason: Historical weather data supports users in making informed decisions based on past weather trends.
